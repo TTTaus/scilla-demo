@@ -53,3 +53,9 @@ $SCILLA_HOME/bin/scilla-checker contract.scilla
 ## Scilla Hackthon Challanges
 
 Check the [list of available tasks](https://github.com/ilyasergey/scilla-demo/blob/master/hackathon/Tasks.md).
+
+## Scilla IDE
+
+```
+https://savant-ide.zilliqa.com/
+```
